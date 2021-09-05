@@ -1,0 +1,23 @@
+{
+  "name": "faztnodejs",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS desde el video de Fazt",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "develop": "node index.js"
+  },
+  "keywords": [
+    "nodeJS",
+    "curso",
+    "Fazt"
+  ],
+  "author": "Manuel",
+  "license": "ISC"
+}
